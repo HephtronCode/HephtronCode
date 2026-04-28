@@ -1,0 +1,25 @@
+# --- RIDDICK NEXUS: SECURE DEFAULT ---
+# 1. Aggressively ignore all hidden files and folders 
+# (This safely prevents committing .env, .venv, .clinerules, and local .opencode.json)
+.*
+.*/
+
+# 2. Explicitly allow necessary Git/IDE files
+!.gitignore
+!.github/
+!.vscode/
+
+# 3. Explicitly ignore keys and credentials
+*.pem
+*.key
+*.cert
+credentials.json
+secret*.json
+
+# 4. Standard dependencies & logs
+node_modules/
+__pycache__/
+venv/
+env/
+*.log
+.DS_Store

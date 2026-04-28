@@ -1,0 +1,32 @@
+name: The Astral Forge Update
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Every 12 hours
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  transmute:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout Grimoire
+        uses: actions/checkout@v4
+
+      - name: Setup Alchemy Environment (Node.js)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Execute Transmutation Script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/forge-update.js
+
+      - name: Seal the Forge (Commit Changes)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update astral forge [automated transmutation]"
+          file_pattern: "README.md"
