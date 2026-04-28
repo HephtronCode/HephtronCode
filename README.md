@@ -7,11 +7,11 @@
 ### 🧪 The Alchemist's Lore
 
 > [!IMPORTANT]
-> **SYSTEM STATUS:** *The Forge is active. Transmuting complex logic into digital gold...*
+> **Status Report:** *Currently refining the architecture of high-impact systems. The forge remains active.*
 
-I am **Babatunde Abu-bakr** (HephtronCode), a **Full-Stack Alchemist** bridging the gap between empathetic **Customer Success** and rigorous **Software Engineering**. I specialize in transforming raw logic and fragmented data into "digital gold"—resilient, user-centric systems that drive real-world impact.
+Babatunde Abu-bakr builds for the real world. In an industry often preoccupied with the abstract, he remains focused on the human impact of technical systems. His approach is defined by a professional history that balances the high-stakes empathy of customer operations with the clinical precision of full-stack development. This foundation allows him to architect tools that are as robust as they are necessary, from the enterprise-grade logic of healthcare platforms to the defensive architecture of fraud detection engines.
 
-With a background in **Operations** and **McKinsey/UN-certified** leadership, I bring a unique blend of technical mastery and emotional intelligence to every project. Whether I'm architecting enterprise healthcare platforms or forging high-performance data pipelines, my focus is always on **precision**, **scalability**, and **elegant design**.
+A McKinsey-certified leader and a student of UN peace studies, Babatunde brings a global perspective to his work in data and software engineering. Whether he is optimizing a supply chain or crafting a digital ecosystem, his focus remains on the craft of building—creating solutions that are resilient, scalable, and above all, intuitive.
 
 <br />
 
