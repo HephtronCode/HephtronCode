@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="./banner.svg" width="800" />
+  <img src="banner.svg" width="800" />
 </div>
 
 <br />
 
 ### 🧪 The Alchemist's Lore
+
+> [!IMPORTANT]
+> **SYSTEM STATUS:** *The Forge is active. Transmuting complex logic into digital gold...*
 
 I am **Babatunde Abu-bakr** (HephtronCode), a **Full-Stack Alchemist** bridging the gap between empathetic **Customer Success** and rigorous **Software Engineering**. I specialize in transforming raw logic and fragmented data into "digital gold"—resilient, user-centric systems that drive real-world impact.
 
