@@ -113,20 +113,44 @@
 ### 📈 Alchemical Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HephtronCode&show_icons=true&bg_color=0d1117&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HephtronCode&theme=react-dark&bg_color=0d1117&color=00f2fe&line=00f2fe&point=ff0055&area=true&hide_border=true" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HephtronCode&show_icons=true&bg_color=0d1117&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&hide_border=true&rank_icon=github&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HephtronCode&layout=compact&bg_color=0d1117&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&hide_border=true" width="40%" />
 </div>
 
 <br />
 
-### 🔗 Connect with The Alchemist
+### 🔗 Communication Portal
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/babatunde-yahaya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Great_Bakr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:tunde.bouba@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/HephtronCode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
+<table border="0" align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/babatunde-yahaya/">
+        <img src="https://img.shields.io/badge/LinkedIn-00f2fe?style=for-the-badge&logo=linkedin&logoColor=0d1117" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/Great_Bakr">
+        <img src="https://img.shields.io/badge/Twitter-4facfe?style=for-the-badge&logo=twitter&logoColor=0d1117" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:tunde.bouba@gmail.com">
+        <img src="https://img.shields.io/badge/Email-ff0055?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HephtronCode">
+        <img src="https://img.shields.io/badge/GitHub-8b949e?style=for-the-badge&logo=github&logoColor=0d1117" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
