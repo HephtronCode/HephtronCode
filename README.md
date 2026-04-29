@@ -80,7 +80,7 @@
       <a href="https://github.com/HephtronCode/codeReviewAgent-007"><strong>Explore Repo »</strong></a>
     </td>
     <td width="50%" valign="top" align="center">
-      <br /><br />
+      <img src="assets/vuzima_go.png" width="90%" style="border-radius: 15px; border: 1px solid #30363d;" />
       <h4>💊 Vuzima Pharma Go</h4>
       <p>Enterprise-grade pharmaceutical operations app with PostgreSQL and Redis orchestration.</p>
       <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code>
@@ -90,6 +90,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
+      <img src="assets/data_engineering.png" width="90%" style="border-radius: 15px; border: 1px solid #30363d;" />
       <h4>📊 Data Engineering Workshop</h4>
       <p>Comprehensive pipelines and analytical models showcasing data transformation expertise.</p>
       <code>Python</code> <code>SQL</code> <code>ETL Pipelines</code>
@@ -97,6 +98,7 @@
       <a href="https://github.com/HephtronCode/data-engineering-workshop"><strong>Explore Repo »</strong></a>
     </td>
     <td width="50%" valign="top" align="center">
+      <img src="assets/tiny_tama.png" width="90%" style="border-radius: 15px; border: 1px solid #30363d;" />
       <h4>🐶 Tiny Tama</h4>
       <p>Spec-driven digital pet MVP utilizing browser-native SQLite (Wasm/OPFS) for persistence.</p>
       <code>SQLite Wasm</code> <code>Framer Motion</code> <code>SDD</code>
