@@ -6,12 +6,25 @@
 
 ### 🧪 The Alchemist's Lore
 
-> [!IMPORTANT]
-> **Status Report:** *Currently refining the architecture of high-impact systems. The forge remains active.*
-
-Babatunde Abu-bakr builds for the real world. In an industry often preoccupied with the abstract, he remains focused on the human impact of technical systems. His approach is defined by a professional history that balances the high-stakes empathy of customer operations with the clinical precision of full-stack development. This foundation allows him to architect tools that are as robust as they are necessary, from the enterprise-grade logic of healthcare platforms to the defensive architecture of fraud detection engines.
-
-A McKinsey-certified leader and a student of UN peace studies, Babatunde brings a global perspective to his work in data and software engineering. Whether he is optimizing a supply chain or crafting a digital ecosystem, his focus remains on the craft of building—creating solutions that are resilient, scalable, and above all, intuitive.
+<table border="0">
+  <tr>
+    <td width="25%" valign="top">
+      <img src="assets/alchemist_avatar.png" width="100%" style="border-radius: 20px; border: 2px solid #00f2fe;" />
+    </td>
+    <td width="75%" valign="top">
+      <blockquote>
+        [!IMPORTANT]
+        <strong>Status Report:</strong> <em>Currently refining the architecture of high-impact systems. The forge remains active.</em>
+      </blockquote>
+      <p>
+        Babatunde Abu-bakr builds for the real world. In an industry often preoccupied with the abstract, he remains focused on the human impact of technical systems. His approach is defined by a professional history that balances the high-stakes empathy of customer operations with the clinical precision of full-stack development. This foundation allows him to architect tools that are as robust as they are necessary, from the enterprise-grade logic of healthcare platforms to the defensive architecture of fraud detection engines.
+      </p>
+      <p>
+        A McKinsey-certified leader and a student of UN peace studies, Babatunde brings a global perspective to his work in data and software engineering. Whether he is optimizing a supply chain or crafting a digital ecosystem, his focus remains on the craft of building—creating solutions that are resilient, scalable, and above all, intuitive.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -40,14 +53,16 @@ A McKinsey-certified leader and a student of UN peace studies, Babatunde brings 
 
 <table border="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
+      <img src="assets/Panacea.png" width="90%" style="border-radius: 15px; border: 1px solid #30363d;" />
       <h4>🏥 Panacea EMR</h4>
       <p>Modern full-stack hospital management system focused on patient care and clinical compliance.</p>
       <code>React 19</code> <code>Node.js</code> <code>MongoDB</code>
       <br /><br />
       <a href="https://github.com/HephtronCode/panacea-emr-project"><strong>Explore Repo »</strong></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
+      <img src="assets/fraud_vault.png" width="90%" style="border-radius: 15px; border: 1px solid #30363d;" />
       <h4>🛡️ FinVault Engine</h4>
       <p>High-performance fraud detection engine for financial transactions and data integrity.</p>
       <code>TypeScript</code> <code>Security</code> <code>Analytics</code>
@@ -56,14 +71,16 @@ A McKinsey-certified leader and a student of UN peace studies, Babatunde brings 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
+      <img src="assets/agent_007.png" width="90%" style="border-radius: 15px; border: 1px solid #30363d;" />
       <h4>🤖 codeReviewAgent-007</h4>
       <p>Automated AI-driven code review agent designed to optimize PR workflows and code quality.</p>
       <code>TypeScript</code> <code>AI/LLM</code> <code>Automation</code>
       <br /><br />
       <a href="https://github.com/HephtronCode/codeReviewAgent-007"><strong>Explore Repo »</strong></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
+      <br /><br />
       <h4>💊 Vuzima Pharma Go</h4>
       <p>Enterprise-grade pharmaceutical operations app with PostgreSQL and Redis orchestration.</p>
       <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code>
@@ -72,14 +89,14 @@ A McKinsey-certified leader and a student of UN peace studies, Babatunde brings 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>📊 Data Engineering Workshop</h4>
       <p>Comprehensive pipelines and analytical models showcasing data transformation expertise.</p>
       <code>Python</code> <code>SQL</code> <code>ETL Pipelines</code>
       <br /><br />
       <a href="https://github.com/HephtronCode/data-engineering-workshop"><strong>Explore Repo »</strong></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>🐶 Tiny Tama</h4>
       <p>Spec-driven digital pet MVP utilizing browser-native SQLite (Wasm/OPFS) for persistence.</p>
       <code>SQLite Wasm</code> <code>Framer Motion</code> <code>SDD</code>
