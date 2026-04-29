@@ -129,24 +129,28 @@
 
 <table border="0" align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="25%">
       <a href="https://www.linkedin.com/in/babatunde-yahaya/">
-        <img src="https://img.shields.io/badge/LinkedIn-00f2fe?style=for-the-badge&logo=linkedin&logoColor=0d1117" />
+        <img src="assets/icon_linkedin.png" width="80%" style="border-radius: 12px;" /><br />
+        <strong>LinkedIn</strong>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="25%">
       <a href="https://x.com/Great_Bakr">
-        <img src="https://img.shields.io/badge/Twitter-4facfe?style=for-the-badge&logo=twitter&logoColor=0d1117" />
+        <img src="assets/icon_twitter.png" width="80%" style="border-radius: 12px;" /><br />
+        <strong>Twitter / X</strong>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="25%">
       <a href="mailto:tunde.bouba@gmail.com">
-        <img src="https://img.shields.io/badge/Email-ff0055?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="assets/icon_email.png" width="80%" style="border-radius: 12px;" /><br />
+        <strong>Email</strong>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="25%">
       <a href="https://github.com/HephtronCode">
-        <img src="https://img.shields.io/badge/GitHub-8b949e?style=for-the-badge&logo=github&logoColor=0d1117" />
+        <img src="assets/icon_github.png" width="80%" style="border-radius: 12px;" /><br />
+        <strong>GitHub</strong>
       </a>
     </td>
   </tr>
