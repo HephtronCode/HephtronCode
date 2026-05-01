@@ -30,7 +30,7 @@
 
 ### ⚒️ The Astral Forge
 <!-- FORGE_START -->
-*Currently forging new code in the deep repositories...*
+- Currently contemplating the next great transmutation...
 <!-- FORGE_END -->
 
 <br />
