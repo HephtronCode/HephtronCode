@@ -155,6 +155,22 @@
   </div>
 </article>
 
+<article style="border: 1px solid #30363d; border-radius: 12px; padding: 1.25rem; background: #161b22; transition: transform 0.2s, box-shadow 0.2s;">
+  <img src="assets/kendarikids.png" alt="KendariKids platform showing child development tracking, parent dashboard, and educational content management" style="width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
+  <h3 style="margin: 0.5rem 0;">🧸 KendariKids</h3>
+  <p style="color: #8b949e; margin: 0.5rem 0;">Child development tracking platform with milestone monitoring, parent collaboration tools, and personalized learning pathways.</p>
+  <div style="margin: 0.75rem 0;">
+    <code style="background: #21262d; padding: 0.15rem 0.4rem; border-radius: 4px; font-size: 0.8rem; margin-right: 0.3rem;">React 19</code>
+    <code style="background: #21262d; padding: 0.15rem 0.4rem; border-radius: 4px; font-size: 0.8rem; margin-right: 0.3rem;">Node.js</code>
+    <code style="background: #21262d; padding: 0.15rem 0.4rem; border-radius: 4px; font-size: 0.8rem; margin-right: 0.3rem;">PostgreSQL</code>
+    <code style="background: #21262d; padding: 0.15rem 0.4rem; border-radius: 4px; font-size: 0.8rem; margin-right: 0.3rem;">TypeScript</code>
+  </div>
+  <div>
+    <a href="https://github.com/HephtronCode/kendarikids" style="color: #00f2fe; text-decoration: none; margin-right: 1.5rem;"><strong>📦 Repository</strong></a>
+    <a href="https://kendarikids-demo.vercel.app" style="color: #00f2fe; text-decoration: none;"><strong>🚀 Live Demo</strong></a>
+  </div>
+</article>
+
 </div>
 
 ---
@@ -230,14 +246,26 @@
 ## 📈 Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HephtronCode&theme=react-dark&bg_color=0d1117&color=00f2fe&line=00f2fe&point=ff0055&area=true&hide_border=true" alt="GitHub Activity Graph for HephtronCode" width="100%" style="max-width: 100%;" />
+  <img src="assets/stats-overview.svg" alt="GitHub Stats Overview" style="max-width: 100%;" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HephtronCode&show_icons=true&bg_color=0d1117&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats for HephtronCode" width="48%" style="max-width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HephtronCode&layout=compact&bg_color=0d1117&title_color=00f2fe&text_color=8b949e&icon_color=00f2fe&hide_border=true" alt="Top Languages for HephtronCode" width="40%" style="max-width: 40%;" />
+  <img src="assets/lang-stats.svg" alt="Top Languages" style="max-width: 100%;" />
+</div>
+
+<br />
+
+<!-- WakaTime Stats (enabled when WAKATIME_API_KEY is configured) -->
+<div align="center">
+  <img src="assets/wakatime-weekly.svg" alt="WakaTime Weekly Coding Activity" style="max-width: 100%;" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="assets/wakatime-languages.svg" alt="WakaTime Top Languages" style="max-width: 100%;" />
 </div>
 
 ---
