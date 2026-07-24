@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+  <style>
+    .bg { fill: #0d1117; }
+    .border { fill: none; stroke: #30363d; stroke-width: 1; }
+    .header-bg { fill: #161b22; }
+    .title { fill: #00f2fe; font-family: system-ui, sans-serif; font-size: 18px; font-weight: 700; }
+    .subtitle { fill: #8b949e; font-family: system-ui, sans-serif; font-size: 12px; }
+    .bio { fill: #e6edf3; font-family: system-ui, sans-serif; font-size: 12px; line-height: 1.5; }
+  </style>
+  <rect class="bg" x="0" y="0" width="800" height="420" rx="12" ry="12"/>
+  <rect class="border" x="0.5" y="0.5" width="799" height="419" rx="11.5" ry="11.5"/>
+  
+  <rect class="header-bg" x="0" y="0" width="800" height="50" rx="12" ry="12"/>
+  <rect x="0" y="50" width="800" height="1" fill="#30363d"/>
+  
+  <text class="title" x="20" y="30">Babatunde Abu-bakr</text>
+  <text class="subtitle" x="20" y="45">@HephtronCode • 2022–2026</text>
+  
+  
+      <g transform="translate(40, 60)">
+        <rect width="180" height="140" rx="12" ry="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <text x="90" y="35" text-anchor="middle" font-size="28" font-family="system-ui, sans-serif" fill="#e6edf3">💾</text>
+        <text x="90" y="75" text-anchor="middle" font-size="24" font-weight="700" font-family="system-ui, sans-serif" fill="#00f2fe">259</text>
+        <text x="90" y="110" text-anchor="middle" font-size="11" font-family="system-ui, sans-serif" fill="#8b949e">Total Commits</text>
+      </g>
+    
+      <g transform="translate(240, 60)">
+        <rect width="180" height="140" rx="12" ry="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <text x="90" y="35" text-anchor="middle" font-size="28" font-family="system-ui, sans-serif" fill="#e6edf3">🔀</text>
+        <text x="90" y="75" text-anchor="middle" font-size="24" font-weight="700" font-family="system-ui, sans-serif" fill="#00f2fe">3</text>
+        <text x="90" y="110" text-anchor="middle" font-size="11" font-family="system-ui, sans-serif" fill="#8b949e">Pull Requests</text>
+      </g>
+    
+      <g transform="translate(440, 60)">
+        <rect width="180" height="140" rx="12" ry="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <text x="90" y="35" text-anchor="middle" font-size="28" font-family="system-ui, sans-serif" fill="#e6edf3">🐛</text>
+        <text x="90" y="75" text-anchor="middle" font-size="24" font-weight="700" font-family="system-ui, sans-serif" fill="#00f2fe">0</text>
+        <text x="90" y="110" text-anchor="middle" font-size="11" font-family="system-ui, sans-serif" fill="#8b949e">Issues</text>
+      </g>
+    
+      <g transform="translate(640, 60)">
+        <rect width="180" height="140" rx="12" ry="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <text x="90" y="35" text-anchor="middle" font-size="28" font-family="system-ui, sans-serif" fill="#e6edf3">👁️</text>
+        <text x="90" y="75" text-anchor="middle" font-size="24" font-weight="700" font-family="system-ui, sans-serif" fill="#00f2fe">0</text>
+        <text x="90" y="110" text-anchor="middle" font-size="11" font-family="system-ui, sans-serif" fill="#8b949e">PR Reviews</text>
+      </g>
+    
+      <g transform="translate(840, 60)">
+        <rect width="180" height="140" rx="12" ry="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <text x="90" y="35" text-anchor="middle" font-size="28" font-family="system-ui, sans-serif" fill="#e6edf3">📊</text>
+        <text x="90" y="75" text-anchor="middle" font-size="24" font-weight="700" font-family="system-ui, sans-serif" fill="#00f2fe">322</text>
+        <text x="90" y="110" text-anchor="middle" font-size="11" font-family="system-ui, sans-serif" fill="#8b949e">Total Contributions</text>
+      </g>
+    
+      <g transform="translate(1040, 60)">
+        <rect width="180" height="140" rx="12" ry="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <text x="90" y="35" text-anchor="middle" font-size="28" font-family="system-ui, sans-serif" fill="#e6edf3">📦</text>
+        <text x="90" y="75" text-anchor="middle" font-size="24" font-weight="700" font-family="system-ui, sans-serif" fill="#00f2fe">26</text>
+        <text x="90" y="110" text-anchor="middle" font-size="11" font-family="system-ui, sans-serif" fill="#8b949e">Repos Contributed</text>
+      </g>
+    
+      <g transform="translate(1240, 60)">
+        <rect width="180" height="140" rx="12" ry="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <text x="90" y="35" text-anchor="middle" font-size="28" font-family="system-ui, sans-serif" fill="#e6edf3">🌍</text>
+        <text x="90" y="75" text-anchor="middle" font-size="24" font-weight="700" font-family="system-ui, sans-serif" fill="#00f2fe">102</text>
+        <text x="90" y="110" text-anchor="middle" font-size="11" font-family="system-ui, sans-serif" fill="#8b949e">Public Repos</text>
+      </g>
+    
+      <g transform="translate(40, 220)">
+        <rect width="180" height="140" rx="12" ry="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <text x="90" y="35" text-anchor="middle" font-size="28" font-family="system-ui, sans-serif" fill="#e6edf3">⭐</text>
+        <text x="90" y="75" text-anchor="middle" font-size="24" font-weight="700" font-family="system-ui, sans-serif" fill="#00f2fe">6</text>
+        <text x="90" y="110" text-anchor="middle" font-size="11" font-family="system-ui, sans-serif" fill="#8b949e">Total Stars</text>
+      </g>
+    
+      <g transform="translate(240, 220)">
+        <rect width="180" height="140" rx="12" ry="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <text x="90" y="35" text-anchor="middle" font-size="28" font-family="system-ui, sans-serif" fill="#e6edf3">🍴</text>
+        <text x="90" y="75" text-anchor="middle" font-size="24" font-weight="700" font-family="system-ui, sans-serif" fill="#00f2fe">4</text>
+        <text x="90" y="110" text-anchor="middle" font-size="11" font-family="system-ui, sans-serif" fill="#8b949e">Total Forks</text>
+      </g>
+    
+      <g transform="translate(440, 220)">
+        <rect width="180" height="140" rx="12" ry="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <text x="90" y="35" text-anchor="middle" font-size="28" font-family="system-ui, sans-serif" fill="#e6edf3">👥</text>
+        <text x="90" y="75" text-anchor="middle" font-size="24" font-weight="700" font-family="system-ui, sans-serif" fill="#00f2fe">75</text>
+        <text x="90" y="110" text-anchor="middle" font-size="11" font-family="system-ui, sans-serif" fill="#8b949e">Followers</text>
+      </g>
+    
+      <g transform="translate(640, 220)">
+        <rect width="180" height="140" rx="12" ry="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <text x="90" y="35" text-anchor="middle" font-size="28" font-family="system-ui, sans-serif" fill="#e6edf3">👤</text>
+        <text x="90" y="75" text-anchor="middle" font-size="24" font-weight="700" font-family="system-ui, sans-serif" fill="#00f2fe">101</text>
+        <text x="90" y="110" text-anchor="middle" font-size="11" font-family="system-ui, sans-serif" fill="#8b949e">Following</text>
+      </g>
+    
+      <g transform="translate(840, 220)">
+        <rect width="180" height="140" rx="12" ry="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <text x="90" y="35" text-anchor="middle" font-size="28" font-family="system-ui, sans-serif" fill="#e6edf3">❤️</text>
+        <text x="90" y="75" text-anchor="middle" font-size="24" font-weight="700" font-family="system-ui, sans-serif" fill="#00f2fe">33</text>
+        <text x="90" y="110" text-anchor="middle" font-size="11" font-family="system-ui, sans-serif" fill="#8b949e">Starred Repos</text>
+      </g>
+    
+      <g transform="translate(1040, 220)">
+        <rect width="180" height="140" rx="12" ry="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <text x="90" y="35" text-anchor="middle" font-size="28" font-family="system-ui, sans-serif" fill="#e6edf3">🎂</text>
+        <text x="90" y="75" text-anchor="middle" font-size="24" font-weight="700" font-family="system-ui, sans-serif" fill="#00f2fe">3 years</text>
+        <text x="90" y="110" text-anchor="middle" font-size="11" font-family="system-ui, sans-serif" fill="#8b949e">Account Age</text>
+      </g>
+    
+      <g transform="translate(1240, 220)">
+        <rect width="180" height="140" rx="12" ry="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+        <text x="90" y="35" text-anchor="middle" font-size="28" font-family="system-ui, sans-serif" fill="#e6edf3">📅</text>
+        <text x="90" y="75" text-anchor="middle" font-size="24" font-weight="700" font-family="system-ui, sans-serif" fill="#00f2fe">371</text>
+        <text x="90" y="110" text-anchor="middle" font-size="11" font-family="system-ui, sans-serif" fill="#8b949e">Active Days</text>
+      </g>
+    
+</svg>
