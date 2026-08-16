@@ -11,43 +11,43 @@
   <text class="title" x="20" y="28">Top Languages (All Time)</text>
   
       <text x="120" y="72" class="lang-label" text-anchor="end">Jupyter Notebook</text>
-      <rect x="130" y="60" width="211.19518055704876" height="16" rx="3" fill="#DA5B0B"/>
-      <text x="349.19518055704873" y="72" class="lang-pct">96.0%</text>
+      <rect x="130" y="60" width="211.23658800169218" height="16" rx="3" fill="#DA5B0B"/>
+      <text x="349.2365880016922" y="72" class="lang-pct">96.0%</text>
     
       <text x="120" y="94" class="lang-label" text-anchor="end">HTML</text>
-      <rect x="130" y="82" width="7.073514134852876" height="16" rx="3" fill="#e34c26"/>
-      <text x="145.07351413485287" y="94" class="lang-pct">3.2%</text>
+      <rect x="130" y="82" width="7.074857732113431" height="16" rx="3" fill="#e34c26"/>
+      <text x="145.07485773211343" y="94" class="lang-pct">3.2%</text>
     
       <text x="120" y="116" class="lang-label" text-anchor="end">JavaScript</text>
-      <rect x="130" y="104" width="0.6246770048853238" height="16" rx="3" fill="#f1e05a"/>
-      <text x="138.6246770048853" y="116" class="lang-pct">0.3%</text>
+      <rect x="130" y="104" width="0.6247994805897011" height="16" rx="3" fill="#f1e05a"/>
+      <text x="138.6247994805897" y="116" class="lang-pct">0.3%</text>
     
       <text x="120" y="138" class="lang-label" text-anchor="end">MDX</text>
-      <rect x="130" y="126" width="0.4330037269002929" height="16" rx="3" fill="#8b949e"/>
-      <text x="138.4330037269003" y="138" class="lang-pct">0.2%</text>
+      <rect x="130" y="126" width="0.4330886226720843" height="16" rx="3" fill="#8b949e"/>
+      <text x="138.43308862267207" y="138" class="lang-pct">0.2%</text>
     
       <text x="120" y="160" class="lang-label" text-anchor="end">Python</text>
-      <rect x="130" y="148" width="0.18567757362455845" height="16" rx="3" fill="#3572A5"/>
-      <text x="138.18567757362456" y="160" class="lang-pct">0.1%</text>
+      <rect x="130" y="148" width="0.18571397802465464" height="16" rx="3" fill="#3572A5"/>
+      <text x="138.18571397802467" y="160" class="lang-pct">0.1%</text>
     
       <text x="120" y="182" class="lang-label" text-anchor="end">Rust</text>
-      <rect x="130" y="170" width="0.15472788270252893" height="16" rx="3" fill="#dea584"/>
-      <text x="138.15472788270253" y="182" class="lang-pct">0.1%</text>
+      <rect x="130" y="170" width="0.1547582190303793" height="16" rx="3" fill="#dea584"/>
+      <text x="138.15475821903038" y="182" class="lang-pct">0.1%</text>
     
       <text x="120" y="204" class="lang-label" text-anchor="end">TypeScript</text>
-      <rect x="130" y="192" width="0.13373814650910798" height="16" rx="3" fill="#3178c6"/>
-      <text x="138.1337381465091" y="204" class="lang-pct">0.1%</text>
+      <rect x="130" y="192" width="0.09067388167251371" height="16" rx="3" fill="#3178c6"/>
+      <text x="138.0906738816725" y="204" class="lang-pct">0.0%</text>
     
       <text x="120" y="226" class="lang-label" text-anchor="end">PHP</text>
-      <rect x="130" y="214" width="0.08159904057970767" height="16" rx="3" fill="#4F5D95"/>
-      <text x="138.0815990405797" y="226" class="lang-pct">0.0%</text>
+      <rect x="130" y="214" width="0.0816150390875659" height="16" rx="3" fill="#4F5D95"/>
+      <text x="138.08161503908755" y="226" class="lang-pct">0.0%</text>
     
       <text x="120" y="248" class="lang-label" text-anchor="end">C</text>
-      <rect x="130" y="236" width="0.07650377299270635" height="16" rx="3" fill="#555555"/>
-      <text x="138.0765037729927" y="248" class="lang-pct">0.0%</text>
+      <rect x="130" y="236" width="0.07651877250991528" height="16" rx="3" fill="#555555"/>
+      <text x="138.07651877250993" y="248" class="lang-pct">0.0%</text>
     
       <text x="120" y="270" class="lang-label" text-anchor="end">TeX</text>
-      <rect x="130" y="258" width="0.04137815990414949" height="16" rx="3" fill="#8b949e"/>
-      <text x="138.04137815990416" y="270" class="lang-pct">0.0%</text>
+      <rect x="130" y="258" width="0.041386272607579364" height="16" rx="3" fill="#8b949e"/>
+      <text x="138.04138627260758" y="270" class="lang-pct">0.0%</text>
     
 </svg>
