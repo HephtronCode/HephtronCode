@@ -1,28 +1,14 @@
 <!--
   HephtronCode — profile README
-  Text-first, image-free, plain Markdown. No scripts, no inline CSS.
+  One self-hosted header SVG (assets/swiss-grid.svg); everything else is
+  plain Markdown. No scripts, no inline CSS.
   The "Recently forging" section below is rewritten by
   .github/workflows/forge-update.yml (scripts/forge-update.js).
 -->
 
-# ⚒️ HephtronCode
-
-<div align="center">
-
-**Babatunde Abu-bakr** — Full-stack & Data Engineer · Healthcare · Fintech · Data platforms
-
-</div>
-
-```text
-$ whoami
-Full-stack & data engineer. I build resilient systems where correctness,
-compliance, and real-time decisions meet — usually under load.
-Currently: support-ticketing infrastructure for merchant operations.
-
-$ cat ~/philosophy
-Well-defined boundaries over clever hacks. Observability over guesswork.
-Ship it, measure it, then make it boring to run.
-```
+<p align="center">
+  <img src="assets/swiss-grid.svg" alt="HephtronCode — Babatunde Abu-bakr, Full-stack & Data Engineer" width="100%" />
+</p>
 
 ---
 
@@ -115,4 +101,4 @@ Real-time fraud detection for financial transactions. Rule-based systems generat
 
 ---
 
-<sub>Plain text · no images · no scripts — maintained with GitHub Actions.</sub>
+<sub>One self-hosted SVG, otherwise plain Markdown · no scripts — maintained with GitHub Actions.</sub>
